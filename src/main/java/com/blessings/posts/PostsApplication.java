@@ -8,7 +8,7 @@ public class PostsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PostsApplication.class, args);
-		System.out.println("hello world!");
+		System.out.println("hello world");
 	}
 
 }
